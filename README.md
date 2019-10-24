@@ -1,4 +1,9 @@
 # E08a-Paddle-Ball
+# Description:
+# In this assignment we praticed how to build a paddle ball game with Godot. Although there
+# are no full instruction to finish building the game, we learned many useful steps that we
+# can finish building the game on our own. Such as how to create sprite, physic, collision.
+
 This is the first Godot exercise for BL-MSCH-C220. As usual, Fork and Clone this repository.
 
 Here are instructions for your first experience with the Godot engine:
